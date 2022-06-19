@@ -17,8 +17,10 @@
 <p>
   <a href="mailto:ertanozturk41@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ozturkertan/" target="_blank"><img alt="Linkledin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ertan__ozturk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@ertan_ozturk" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
 <h3>Open source projects:</h3>
 <table>
   <thead align="center">
