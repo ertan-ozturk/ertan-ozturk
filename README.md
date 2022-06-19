@@ -41,16 +41,12 @@
   </tbody>
 </table>
 
-<h3>Statics:</h3>
+<h3>Profil Statics:</h3>
 <p>
-  <img alt="followers" src="https://img.shields.io/github/followers/ertan-ozturk?style=social&label=Follow&maxAge=2592000" />
-  <img alt="Flutter" src="https://img.shields.io/github/watchers/ertan-ozturk/MathTestApp?style=social&label=Watch&maxAge=2592000" />
-  <img alt="MySQL" src="" />
-  <img alt="SQLite" src="" />
-  <img alt="Photoshop" src="" />
-  <img alt="XD" src="" />
-   <img alt="Vs Code" src="" />
+  <img alt="followers" src="https://img.shields.io/github/followers/ertan-ozturk?style=flat-square&labelColor=343b41" />
+  <img alt="Profile views" src="https://gpvc.arturio.dev/ertan-ozturk?style=flat-square&labelColor=343b41" />
 </p>
+
 
 
 
