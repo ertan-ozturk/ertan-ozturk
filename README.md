@@ -7,6 +7,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
+      <td><b>🎁 Project Status</b></td>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
@@ -15,19 +16,13 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/ertan-ozturk/MathTestApp"><b>Coming soon!</b></a></td>
+    <tr align="center">
+      <td><b>Continues!</b></td>
+      <td><a href="https://github.com/ertan-ozturk/MathTestApp"><b>MathTestApp</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ertan-ozturk/MathTestApp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ertan-ozturk/MathTestApp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ertan-ozturk/MathTestApp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ertan-ozturk/MathTestApp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="#"><b>Coming soon!</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
