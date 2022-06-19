@@ -13,6 +13,17 @@
    <img alt="Vs Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<h3>Contact</h3>
+<p><a href="mailto:ertanozturk41@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+  <img alt="Twitter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="Linkedin" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+   <img alt="Vs Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
 <h3>Open source projects:</h3>
 <table>
   <thead align="center">
@@ -48,8 +59,9 @@
 </p>
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ertan-ozturk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ertan-ozturk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![GitHub stars](https://img.shields.io/github/stars/ertan-ozturk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ertan-ozturk/)
