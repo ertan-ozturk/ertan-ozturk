@@ -1,3 +1,10 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you...</h1>
+
+
+<p>Welcome to My Profil </br> I'm Ertan, Flutter and Dart developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Istanbul, Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Istanbul, Turkey</b>. </p>
+<h3>Things I code with</h3>
+<p>
+  
 <h3>Things I code with:</h3>
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
