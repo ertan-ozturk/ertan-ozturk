@@ -7,7 +7,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Project Status</b></td>
+      <td><b>⚙️ Project Status</b></td>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
